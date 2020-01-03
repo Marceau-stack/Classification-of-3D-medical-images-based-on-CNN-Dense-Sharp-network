@@ -1,4 +1,7 @@
 # Classification-of-3D-medical-images-based-on-CNN-Dense-Sharp-network
+
+For testing, run the last block in the code named "usable(1).ipynb",and change the unout path
+
 EE369：Classification of 3D medical images based on CNN Dense Sharp network
 
 basic structure: Python Keras
