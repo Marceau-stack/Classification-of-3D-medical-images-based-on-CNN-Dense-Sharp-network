@@ -19,7 +19,7 @@ master:
 
 total.ipynb: the overall codes
 
-bestweight.h5py: the highest accuracy weight (batch_size=256, 10 layers, learning rate 0.001, SGD)
+test.ipynb: test the model
 
 patch-1:
 
@@ -32,3 +32,8 @@ patch-2:
 model3.h5: the trained model
 
 weight.30.h5py: the best weight in model3
+
+patch-3:
+
+bestweight.h5py: the highest accuracy weight (batch_size=256, 10 layers, learning rate 0.001, SGD)
+
