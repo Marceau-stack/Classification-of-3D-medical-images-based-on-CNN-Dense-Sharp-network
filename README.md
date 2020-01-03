@@ -1,6 +1,6 @@
 # Classification-of-3D-medical-images-based-on-CNN-Dense-Sharp-network
 
-For testing, run the last block in the code named "test.ipynb",and change the inout and output path
+For testing, run the last block in the code named "test.ipynb",and change the input and output path
 
 EE369：Classification of 3D medical images based on CNN Dense Sharp network
 
